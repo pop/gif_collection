@@ -9,7 +9,7 @@ community contributions.
 Wanna add a gif to the collection?
 ----------------------------------
 Awesome. `Make a pull
-request<https://help.github.com/articles/creating-a-pull-request/>`_.
+request <https://help.github.com/articles/creating-a-pull-request/>`_.
 
 **Acceptable Formats:**
 * .gif
